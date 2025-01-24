@@ -1,7 +1,7 @@
 # Batch to exe converter
 
 ## Descripción
-Una aplicación de escritorio creada para convertir scripts .bat a .exe, cuenta con opciones de personilzación.
+Una aplicación de escritorio creada para convertir scripts .bat a .exe, cuenta con opciones de personalización.
 
 ## Capturas de pantalla
 ![image](https://github.com/user-attachments/assets/b48d74b3-3e10-4e01-acd1-6b4b1032e5b4)
